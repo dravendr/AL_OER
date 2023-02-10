@@ -1,0 +1,22 @@
+Full.log:Best Regressor: {'coef0': 100, 'degree': 2, 'epsilon': 1, 'gamma': 'scale', 'kernel': 'rbf', 'max_iter': 1100} Best Score: -64.91451555007956
+Full.log:Best Regressor: {'algorithm': 'kd_tree', 'leaf_size': 30, 'n_neighbors': 9, 'p': 1, 'weights': 'distance'} Best Score: -70.9293917628469
+Full.log:Best Regressor: {'boosting_type': 'gbdt', 'learning_rate': 0.05, 'max_depth': -1, 'n_estimators': 50, 'reg_alpha': 0.01, 'reg_lambda': 0.001, 'subsample': 0.4} Best Score: -57.333773073821554
+Full.log:Best Regressor: {'booster': 'gbtree', 'learning_rate': 0.02, 'max_depth': 7, 'n_estimators': 200, 'reg_alpha': 0.01, 'reg_lambda': 0.01, 'subsample': 0.55} Best Score: -55.14959824879965
+Full.log:Best Regressor: {'boosting_type': 'Plain', 'learning_rate': 0.04, 'max_depth': 7, 'n_estimators': 400, 'reg_lambda': 0.01, 'subsample': 0.85} Best Score: -54.19955970411807
+Full.log:Best Regressor: {'criterion': 'mae', 'learning_rate': 0.08, 'loss': 'lad', 'max_depth': 5, 'max_features': 'log2', 'n_estimators': 400} Best Score: -53.775319697482345
+Full.log:Best Regressor: {'criterion': 'mse', 'max_depth': None, 'max_features': 'sqrt', 'n_estimators': 400} Best Score: -55.38838767361111
+Full.log:Best Regressor: {'criterion': 'mse', 'max_depth': 5, 'max_features': 'auto', 'splitter': 'best'} Best Score: -62.471565547073496
+Full.log:Best Regressor: {'learning_rate': 0.001, 'loss': 'exponential', 'n_estimators': 50} Best Score: -59.69477144286218
+Full.log:Best Regressor: {'batch_size': 8, 'epochs': 100, 'optimizer': 'sgd'} Best Score: -65.56679238478344
+Full.log:Best Regressor: {'batch_size': 8, 'epochs': 80, 'optimizer': 'rmsprop'} Best Score: -65.11832010746002
+HQ.log:Best Regressor: {'coef0': 200, 'degree': 2, 'epsilon': 0.3, 'gamma': 'scale', 'kernel': 'poly', 'max_iter': 1500} Best Score: -65.28297908510027
+HQ.log:Best Regressor: {'algorithm': 'kd_tree', 'leaf_size': 10, 'n_neighbors': 9, 'p': 1, 'weights': 'distance'} Best Score: -75.13798882182108
+HQ.log:Best Regressor: {'boosting_type': 'gbdt', 'learning_rate': 0.008, 'max_depth': 13, 'n_estimators': 200, 'reg_alpha': 0, 'reg_lambda': 0.01, 'subsample': 0.4} Best Score: -60.032683844260234
+HQ.log:Best Regressor: {'booster': 'gbtree', 'learning_rate': 0.02, 'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.0001, 'reg_lambda': 1e-05, 'subsample': 0.95} Best Score: -59.819477250396325
+HQ.log:Best Regressor: {'boosting_type': 'Plain', 'learning_rate': 0.08, 'max_depth': 9, 'n_estimators': 200, 'reg_lambda': 0.01, 'subsample': 0.85} Best Score: -57.028928281730295
+HQ.log:Best Regressor: {'criterion': 'friedman_mse', 'learning_rate': 0.02, 'loss': 'lad', 'max_depth': 13, 'max_features': 'log2', 'n_estimators': 200} Best Score: -57.1764134460111
+HQ.log:Best Regressor: {'criterion': 'mse', 'max_depth': 11, 'max_features': 'log2', 'n_estimators': 200} Best Score: -58.98016173499771
+HQ.log:Best Regressor: {'criterion': 'mse', 'max_depth': 5, 'max_features': 'log2', 'splitter': 'best'} Best Score: -64.712500056601
+HQ.log:Best Regressor: {'learning_rate': 0.001, 'loss': 'square', 'n_estimators': 50} Best Score: -62.359466183918094
+HQ.log:Best Regressor: {'batch_size': 16, 'epochs': 30, 'optimizer': 'adagrad'} Best Score: -69.9996179381358
+HQ.log:Best Regressor: {'batch_size': 8, 'epochs': 110, 'optimizer': 'sgd'} Best Score: -69.55212826917777
